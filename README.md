@@ -24,4 +24,4 @@ Proyek ini memanfaatkan framework modular Caikit untuk menjalankan model analisi
    pip install -r requirements.txt
    
 5. **Set Up Environment**
-   Pastikan konfigurasi lingkungan yang diperlukan, seperti jalur atau identifier model, telah diatur dengan benar di sistem atau file konfigurasi Anda.
+   Pastikan konfigurasi environment yang diperlukan, seperti jalur atau identifier model, telah diatur dengan benar di sistem atau file konfigurasi Anda.
